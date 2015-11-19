@@ -9,28 +9,28 @@ This is a basic outline of what we are covering.
    1. Location/Venue/Directions
       1. Google Maps Integration
    2. Tracks
-      1. Panels
-      2. Presentations
-      3. Classes
-      4. Workshops
-      5. Shows
-      6. On-Going/Static Displays
+      1. Panels (Custom Post Type: multiple guests, timedate, location, moderator, maxguests)
+      2. Presentations (Custom Post Type: Presenters, timedate, location)
+      3. Classes (Custom Post Type: teacher, timedate, location, maxguests)
+      4. Workshops(Custom Post Type: teacher, timedate, location, maxguests, cost)
+      5. Shows (Custom Post Type: teacher, timedate, location, maxguests, cost)
+      6. On-Going/Static Displays (Custom Post Type: Sponsor, location, table)
       7. Conflict Detection
-      8. Handout attachments
-      9. Personal Schedules/planning
-         1. mobile export
+      8. Handout attachments (Media)
+      9. Personal Schedules/planning (Function)
+         1. mobile export (function)
 3. Registration
    1. Integrate with WP users
-   2. Staff
-   3. Presenters/Honored Guests
-   4. Volunteers
-   5. Patrons
+   2. Staff (Custom Post Type: position_name, position_descr, access_levels, guestID)
+   3. Presenters/Honored Guests(Custom Post Type: title, bio, blurb, quote, photo, cashcompensation, othercompensation, guestID)
+   4. Volunteers (Custom Post Type: specialty, availability, access_levels, guestID)
+   5. Patrons (TABLE! - Unique GuestID, fname, lname, nick_name, form_of_address, gender, addr1, addr2, city, state, country, postal_code, special needs, pass_hash, groups, email, comments, photo, website, first_seen)
    6. Media
    7. Import/Export
-   8. Badges
+   8. Badges (Function)
 4. After-Actions
-   1. Souvenir sales
-   2. Feedback
+   1. Souvenir sales (Additional plugin?)
+   2. Feedback (Form - additional plugin?)
    3. A/V recordings
    4. Past Con summaries & reviews
    5. Media links & copies
