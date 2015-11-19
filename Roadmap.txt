@@ -1,0 +1,54 @@
+This is a basic outline of what we are covering.
+
+1. General Specs
+   1. WordPress
+   2. Configurable
+   3. Understandable Code (Comments!)
+   4. Documentation (Write the manual as you write the code.)
+2. Info Pages
+   1. Location/Venue/Directions
+      1. Google Maps Integration
+   2. Tracks
+      1. Panels
+      2. Presentations
+      3. Classes
+      4. Workshops
+      5. Shows
+      6. On-Going/Static Displays
+      7. Conflict Detection
+      8. Handout attachments
+      9. Personal Schedules/planning
+         1. mobile export
+3. Registration
+   1. Integrate with WP users
+   2. Staff
+   3. Presenters/Honored Guests
+   4. Volunteers
+   5. Patrons
+   6. Media
+   7. Import/Export
+   8. Badges
+4. After-Actions
+   1. Souvenir sales
+   2. Feedback
+   3. A/V recordings
+   4. Past Con summaries & reviews
+   5. Media links & copies
+5. News/Blog/Marketing
+   1. Social Media
+   2. Traditional Media
+   3. Press Releases
+6. Live Features
+   1. Chat
+   2. Feedback
+   3. Private Messages
+   4. Mass Notifications
+   5. Schedule Changes
+   6. Liveblog
+7. WP Stuff
+   1. Settings
+   2. Custom Post types
+   3. User Fields
+   4. Shortcodes
+   5. Auto page Creation
+   6. Themes
