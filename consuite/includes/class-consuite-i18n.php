@@ -22,7 +22,7 @@
  * @subpackage consuite/includes
  * @author     Brian Chabot <brian@brianchabot.org>
  */
-class Plugin_Name_i18n {
+class consuite_i18n {
 	private $domain;
 	public function load_plugin_textdomain() {
 		load_plugin_textdomain(
